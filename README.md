@@ -1,0 +1,2 @@
+# Koronavirüs Tweetleri Gün Bazlı Duygu Tahmini
+İlgili açıklamalar için [https://arikansm.github.io/covid-tweets-sentiment-forecast](https://arikansm.github.io/covid-tweets-sentiment-forecast) adresinden faydalanabilirsiniz.
