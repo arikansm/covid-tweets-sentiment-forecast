@@ -1,7 +1,0 @@
-title: Koronavirüs Tweetleri Gün Bazlı Duygu Tahmini
-description: Python dili ile NLTK ve Prophet kütüphaneleri kullanılmıştır.
-show_downloads: true
-google_analytics: UA-170151314-2
-theme: jekyll-theme-cayman
-plugins:
-  - jekyll-sitemap
